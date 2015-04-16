@@ -1,7 +1,1 @@
-hola soy pepe, otra vez
-esta es la rama3
-<<<<<<< HEAD
-sisisi
-=======
-otra prueba más
->>>>>>> 65a3096be9c2ed5e3a35c0027ddc69becccef5b3
+RAMA 3 editada de mil y una formas
