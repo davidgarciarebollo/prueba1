@@ -1,10 +1,1 @@
-hola soy pepe, otra vez
-<<<<<<< HEAD
-esta es la tercera versión
-estoy en la rama 2
-probando...
-dia 16-4-15
-prueba en la rama2
-=======
-esta es la rama3
->>>>>>> 3aba4eec1546351569b1b5697029bc9b414909b7
+PRUEBA con rama2
