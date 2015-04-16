@@ -1,3 +1,2 @@
 hola soy pepe, otra vez
-esta es la tercera versión
-nueva version
+esta es la rama3
