@@ -1,7 +1,0 @@
-hola soy pepe, otra vez
-<<<<<<< HEAD
-esta es la rama master
-=======
-esta es la rama2 otra vez
-
->>>>>>> 44e27bae3f0dad90f0f149d6daf705e31c3e75a5
